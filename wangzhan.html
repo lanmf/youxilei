@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Play Monster Survivors - an action-packed online game where you fight hordes of monsters to survive. No download required.">
+    <meta name="keywords" content="Monster Survivors, online game, action game, play free, browser game">
+    <meta name="author" content="lanmei.autos">
+    <link rel="canonical" href="https://lanmei.autos/" />
+    <title>Monster Survivors - Play Free Online | lanmei.autos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-900 font-sans antialiased">
+
+    <!-- Header -->
+    <header class="bg-white border-b border-gray-200 shadow-sm">
+        <div class="max-w-5xl mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 class="text-3xl font-bold text-gray-900">Monster Survivors</h1>
+            <nav>
+                <a href="/" class="text-blue-600 hover:text-blue-700 font-medium">Home</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-5xl mx-auto px-4 py-8">
+
+        <!-- Game Introduction -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-2">Survive the Monster Horde!</h2>
+            <p class="text-lg text-gray-700">Monster Survivors is an action-packed online survival game where you must battle endless waves of monsters. No download required — play instantly in your browser!</p>
+        </section>
+
+        <!-- Iframe Game Embed -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-2">Play Now</h2>
+            <div class="relative overflow-hidden rounded-lg shadow-lg border border-gray-200">
+                <iframe src="https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html" 
+                        width="100%" height="600" 
+                        class="w-full h-[60vh] md:h-[70vh] border-0"
+                        allowfullscreen
+                        loading="lazy">
+                </iframe>
+            </div>
+        </section>
+
+        <!-- Game Details -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-2">Game Features</h2>
+            <ul class="list-disc list-inside text-gray-700 text-lg space-y-2">
+                <li>Fast-paced monster survival action</li>
+                <li>Unique power-ups and character upgrades</li>
+                <li>Endless waves of enemies to defeat</li>
+                <li>Playable directly in your web browser</li>
+                <li>No downloads or registration required</li>
+            </ul>
+        </section>
+
+        <!-- Game Description -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-2">About Monster Survivors</h2>
+            <p class="text-lg text-gray-700 leading-relaxed">
+                Monster Survivors puts you in the heart of an unforgiving battlefield, surrounded by relentless hordes of monsters. 
+                Your mission? Survive as long as possible! Use your skills, collect power-ups, and upgrade your hero to stand against increasingly difficult waves of enemies.
+                Whether you're on PC or mobile, Monster Survivors delivers fast, thrilling gameplay right from your browser.
+            </p>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 border-t border-gray-200 text-center py-4 text-gray-600 text-sm">
+        &copy; 2025 lanmei.autos — All rights reserved.
+    </footer>
+
+</body>
+</html>
